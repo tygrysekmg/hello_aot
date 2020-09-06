@@ -1,0 +1,6 @@
+/opt/oatpp-starter/build/CMakeFiles/rebuild_cache.dir
+/opt/oatpp-starter/build/CMakeFiles/edit_cache.dir
+/opt/oatpp-starter/build/CMakeFiles/test.dir
+/opt/oatpp-starter/build/CMakeFiles/my-project-test.dir
+/opt/oatpp-starter/build/CMakeFiles/my-project-exe.dir
+/opt/oatpp-starter/build/CMakeFiles/my-project-lib.dir

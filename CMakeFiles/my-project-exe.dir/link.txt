@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/my-project-exe.dir/src/App.cpp.o  -o my-project-exe  libmy-project-lib.a /usr/local/lib/oatpp-1.1.0/liboatpp-test.a /usr/local/lib/oatpp-1.1.0/liboatpp.a -lpthread -latomic 
